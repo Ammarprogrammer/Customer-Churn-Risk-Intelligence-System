@@ -115,10 +115,6 @@ The model is trained on a set of 20 features, including:
 └── README.md               # This file.
 ```
 
----
-
-## Author
-
 **Ammar Ahmed**
 - [LinkedIn](https://www.linkedin.com/in/ammarahmeddeveloper/)
 - [GitHub](https://github.com/Ammarprogrammer)
